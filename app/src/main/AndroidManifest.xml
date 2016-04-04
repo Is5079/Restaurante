@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lopezl_restaurante"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="Plated"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Tipo">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.lopezl_restaurante.Restaurante"
+            android:label="Plated" >
+        </activity>
+        <activity android:name=".Login1"/>
+        <activity android:name=".Irloginmesero"/>
+        <activity android:name=".Loginadmin"/>
+        <activity android:name=".Login"/>
+        <activity android:name=".Register"/>
+        <activity android:name=".Menumes"/>
+        <activity android:name=".Consultar"/>
+
+        <activity
+            android:name=".PedirPlatos"
+            android:label="Carta"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".ListarPlatos"
+            android:label="ListarPlatos"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".CalcularPedido"
+            android:label="CalcularPedido"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".Reservar"
+            android:label="Reserva"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".EliminarReserva"
+            android:label="EliminarReserva"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".ServicioReserva"
+            android:label="ServicioReserva"
+            android:theme="@android:style/Theme.Dialog" />
+        
+        <service android:name=".NotificacionSMS" />
+        
+        <receiver android:name=".ReceptorMensajes" android:exported="true" > 
+  			<intent-filter android:priority="1000"> 
+    			<action android:name="android.provider.Telephony.SMS_RECEIVED" />
+  			</intent-filter> 
+		</receiver>
+        <!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

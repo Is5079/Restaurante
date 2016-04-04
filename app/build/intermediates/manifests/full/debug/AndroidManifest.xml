@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lopezl_restaurante"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="Plated"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.lopezl_restaurante.Tipo" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.lopezl_restaurante.Restaurante"
+            android:label="Plated" >
+        </activity>
+        <activity android:name="com.example.lopezl_restaurante.Login1" />
+        <activity android:name="com.example.lopezl_restaurante.Irloginmesero" />
+        <activity android:name="com.example.lopezl_restaurante.Loginadmin" />
+        <activity android:name="com.example.lopezl_restaurante.Login" />
+        <activity android:name="com.example.lopezl_restaurante.Register" />
+        <activity android:name="com.example.lopezl_restaurante.Menumes" />
+        <activity android:name="com.example.lopezl_restaurante.Consultar" />
+        <activity
+            android:name="com.example.lopezl_restaurante.PedirPlatos"
+            android:label="Carta"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.example.lopezl_restaurante.ListarPlatos"
+            android:label="ListarPlatos"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.example.lopezl_restaurante.CalcularPedido"
+            android:label="CalcularPedido"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.example.lopezl_restaurante.Reservar"
+            android:label="Reserva"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.example.lopezl_restaurante.EliminarReserva"
+            android:label="EliminarReserva"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.example.lopezl_restaurante.ServicioReserva"
+            android:label="ServicioReserva"
+            android:theme="@android:style/Theme.Dialog" />
+
+        <service android:name="com.example.lopezl_restaurante.NotificacionSMS" />
+
+        <receiver
+            android:name="com.example.lopezl_restaurante.ReceptorMensajes"
+            android:exported="true" >
+            <intent-filter android:priority="1000" >
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+        <!--
+             ATTENTION: This was auto-generated to add Google Play services to your project for
+             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

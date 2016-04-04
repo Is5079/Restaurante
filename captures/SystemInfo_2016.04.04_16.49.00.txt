@@ -1,0 +1,35 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        41aa6b20 com.example.lopezl_restaurante/.Tipo filter 41aa99f8
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.provider.Telephony.SMS_RECEIVED:
+        412f9ca8 com.example.lopezl_restaurante/.ReceptorMensajes filter 4132eda0
+ 
+Packages:
+  Package [com.example.lopezl_restaurante] (4195d8c8):
+    userId=10147 gids=[3003]
+    sharedUser=null
+    pkg=Package{4185f4d8 com.example.lopezl_restaurante}
+    codePath=/data/app/com.example.lopezl_restaurante-1.apk
+    resourcePath=/data/app/com.example.lopezl_restaurante-1.apk
+    nativeLibraryPath=/data/data/com.example.lopezl_restaurante/lib
+    versionCode=1
+    applicationInfo=ApplicationInfo{41946e98 com.example.lopezl_restaurante}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    versionName=1.0
+    dataDir=/data/data/com.example.lopezl_restaurante
+    targetSdk=17
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2016-04-04 16:45:32
+    firstInstallTime=2016-03-28 11:26:52
+    lastUpdateTime=2016-04-04 16:45:33
+    signatures=PackageSignatures{41803af0 [418b7e40]}
+    permissionsFixed=true haveGids=true
+    pkgFlags=0x0 installStatus=1 User 0:  stopped=false enabled=0
+    grantedPermissions:
+      android.permission.READ_SMS
+      android.permission.INTERNET
+      android.permission.RECEIVE_SMS
