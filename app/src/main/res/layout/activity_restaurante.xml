@@ -64,6 +64,13 @@
             android:layout_height="wrap_content"
             android:layout_width="fill_parent"
             android:text="@+string/calcular_pedido"/>
+    <Button
+            android:id="@+id/Button04"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:text="Consulta Chef"/>
 
     <Button
             android:id="@+id/Button06"

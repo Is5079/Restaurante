@@ -63,6 +63,15 @@ public class Restaurante extends Activity {
 			}
 		});
 
+		boton = (Button) findViewById(R.id.Button04);
+		boton.setOnClickListener(new View.OnClickListener() {
+
+			@Override
+			public void onClick(View view) {
+				lanzarConsultaChef(null);
+			}
+		});
+
 	}
 
 	@Override
@@ -101,6 +110,11 @@ public class Restaurante extends Activity {
 	public void lanzarsalir(View view) {
 
 		Intent i = new Intent(this, Tipo.class);
+		startActivity(i);
+	}
+
+	public void lanzarConsultaChef(View view) {
+		Intent i = new Intent(this, Consultar.class);
 		startActivity(i);
 	}
 
