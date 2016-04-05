@@ -1,274 +1,138 @@
 [
     {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lambrusco.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\lambrusco.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piccata.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\piccata.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carpaccio_remolacha.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\carpaccio_remolacha.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pasta_pesto.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\pasta_pesto.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filete_salmon.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\filete_salmon.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pina_chocolate.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\pina_chocolate.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\risotto_setas.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\risotto_setas.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piccata.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\piccata.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pepperoni.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\pepperoni.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\risotto_carne.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\risotto_carne.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vegetariana.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\vegetariana.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiras_carne.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\tiras_carne.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plated.png",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\plated.png"
-    },
-    {
         "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ternera_atun.jpg",
         "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\ternera_atun.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\risotto_carne.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\risotto_carne.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calzone.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\calzone.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiramisu.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\tiramisu.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vegetariana.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\vegetariana.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filete_salmon.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\filete_salmon.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carpaccio_remolacha.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\carpaccio_remolacha.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gazpacho.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\gazpacho.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pasta_pesto.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\pasta_pesto.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\espagueti_carbonara.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\espagueti_carbonara.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carpaccio_pescado.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\carpaccio_pescado.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pizza_wallpaper.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\pizza_wallpaper.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ensalada_caprese.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\ensalada_caprese.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lambrusco.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\lambrusco.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\risotto_setas.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\risotto_setas.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carpaccio_carne.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\carpaccio_carne.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresco_cola.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\refresco_cola.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terraza.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\terraza.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresco_limon.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\refresco_limon.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cannoli.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\cannoli.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vino_tinto.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\vino_tinto.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plated.png",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\plated.png"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cannoli.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\cannoli.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ravioli_setas.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\ravioli_setas.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pannacotta.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\pannacotta.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carpaccio_pescado.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\carpaccio_pescado.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\agua.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\agua.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pepperoni.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\pepperoni.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\casa.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\casa.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gazpacho.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\gazpacho.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ternera_atun.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\ternera_atun.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calzone.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\calzone.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_reserva.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\icon_reserva.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresco_cola.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\refresco_cola.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiras_carne.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\tiras_carne.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pizza_wallpaper.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\pizza_wallpaper.jpg"
     },
     {
         "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carpaccio_carne.jpg",
         "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\carpaccio_carne.jpg"
     },
     {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ravioli_setas.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\ravioli_setas.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiras_carne.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\tiras_carne.jpg"
     },
     {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\polenta.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\polenta.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cannoli.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\cannoli.jpg"
     },
     {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\agua.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\agua.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calzone.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\calzone.jpg"
     },
     {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vino_tinto.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\vino_tinto.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lambrusco.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\lambrusco.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terraza.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\terraza.jpg"
     },
     {
         "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\caprese.jpg",
         "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\caprese.jpg"
     },
     {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\espagueti_carbonara.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\espagueti_carbonara.jpg"
-    },
-    {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\polenta.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\polenta.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\helado_limon.jpg",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\helado_limon.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vegetariana.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\vegetariana.jpg"
     },
     {
         "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_reserva.jpg",
         "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\icon_reserva.jpg"
     },
     {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\casa.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\casa.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piccata.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\piccata.jpg"
     },
     {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\caprese.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\caprese.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pepperoni.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\pepperoni.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ravioli_setas.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\ravioli_setas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gazpacho.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\gazpacho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carpaccio_pescado.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\carpaccio_pescado.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pannacotta.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\pannacotta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plated.png",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\plated.png"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pina_chocolate.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\pina_chocolate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carpaccio_remolacha.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\carpaccio_remolacha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\polenta.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\polenta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vino_tinto.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\vino_tinto.jpg"
     },
     {
         "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ensalada_caprese.jpg",
         "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\ensalada_caprese.jpg"
     },
     {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pannacotta.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\pannacotta.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pizza_wallpaper.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\pizza_wallpaper.jpg"
     },
     {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pina_chocolate.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\pina_chocolate.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\helado_limon.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\helado_limon.jpg"
     },
     {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiramisu.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\tiramisu.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresco_limon.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\refresco_limon.jpg"
     },
     {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\helado_limon.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\helado_limon.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\risotto_carne.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\risotto_carne.jpg"
     },
     {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terraza.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\terraza.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pasta_pesto.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\pasta_pesto.jpg"
     },
     {
-        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresco_limon.jpg",
-        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\drawable\\refresco_limon.jpg"
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filete_salmon.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\filete_salmon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\risotto_setas.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\risotto_setas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresco_cola.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\refresco_cola.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\casa.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\casa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\agua.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\agua.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiramisu.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\tiramisu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\espagueti_carbonara.jpg",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\drawable\\espagueti_carbonara.jpg"
     }
 ]

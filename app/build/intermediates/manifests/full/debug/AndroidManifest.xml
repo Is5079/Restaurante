@@ -35,6 +35,7 @@
         <activity android:name="com.example.lopezl_restaurante.Register" />
         <activity android:name="com.example.lopezl_restaurante.Menumes" />
         <activity android:name="com.example.lopezl_restaurante.Consultar" />
+        <activity android:name="com.example.lopezl_restaurante.Reportes" />
         <activity
             android:name="com.example.lopezl_restaurante.PedirPlatos"
             android:label="Carta"
