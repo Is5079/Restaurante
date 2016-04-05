@@ -36,6 +36,7 @@
         <activity android:name=".Register"/>
         <activity android:name=".Menumes"/>
         <activity android:name=".Consultar"/>
+        <activity android:name=".Reportes"/>
 
         <activity
             android:name=".PedirPlatos"

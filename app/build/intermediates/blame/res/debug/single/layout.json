@@ -36,6 +36,10 @@
         "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\layout\\menumes.xml"
     },
     {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reportes.xml",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\layout\\reportes.xml"
+    },
+    {
         "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plato_lista.xml",
         "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\layout\\plato_lista.xml"
     },

@@ -43,7 +43,7 @@ public class Menumes extends Activity {
 
     public void irlogina(View view) {
 
-        Intent i = new Intent(this, Consultar.class);
+        Intent i = new Intent(this, Reportes.class);
         startActivity(i);
     }
 

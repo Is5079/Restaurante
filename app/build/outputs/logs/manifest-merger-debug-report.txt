@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:2:1-79:12
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:2:1-80:12
 	package
 		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml
@@ -42,7 +42,7 @@ ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest
 	android:name
 		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:13:22-64
 application
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:15:5-77:19
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:15:5-78:19
 MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
@@ -103,76 +103,80 @@ activity#com.example.lopezl_restaurante.Consultar
 ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:38:9-46
 	android:name
 		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:38:19-44
+activity#com.example.lopezl_restaurante.Reportes
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:39:9-45
+	android:name
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:39:19-43
 activity#com.example.lopezl_restaurante.PedirPlatos
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:40:9-43:59
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:41:9-44:59
 	android:label
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:42:13-34
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:43:13-34
 	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:43:13-56
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:44:13-56
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:41:13-40
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:42:13-40
 activity#com.example.lopezl_restaurante.ListarPlatos
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:44:9-47:59
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:45:9-48:59
 	android:label
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:47:13-41
+	android:theme
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
 		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:46:13-41
-	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:47:13-56
-	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:45:13-41
 activity#com.example.lopezl_restaurante.CalcularPedido
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:48:9-51:59
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:49:9-52:59
 	android:label
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:51:13-43
+	android:theme
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:52:13-56
+	android:name
 		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:50:13-43
-	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:51:13-56
-	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:49:13-43
 activity#com.example.lopezl_restaurante.Reservar
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:52:9-55:59
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:53:9-56:59
 	android:label
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:54:13-36
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:55:13-36
 	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:55:13-56
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:56:13-56
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:53:13-37
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:54:13-37
 activity#com.example.lopezl_restaurante.EliminarReserva
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:56:9-59:59
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:57:9-60:59
 	android:label
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:59:13-44
+	android:theme
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:60:13-56
+	android:name
 		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:58:13-44
-	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:59:13-56
-	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:57:13-44
 activity#com.example.lopezl_restaurante.ServicioReserva
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:60:9-63:59
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:61:9-64:59
 	android:label
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:62:13-44
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:63:13-44
 	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:63:13-56
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:64:13-56
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:61:13-44
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:62:13-44
 service#com.example.lopezl_restaurante.NotificacionSMS
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:65:9-52
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:66:9-52
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:65:18-49
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:66:18-49
 receiver#com.example.lopezl_restaurante.ReceptorMensajes
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:67:9-71:14
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:68:9-72:14
 	android:exported
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:67:52-75
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:68:52-75
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:67:19-51
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:68:19-51
 intent-filter#android.provider.Telephony.SMS_RECEIVED
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:68:6-70:22
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:69:6-71:22
 	android:priority
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:68:21-44
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:69:21-44
 action#android.provider.Telephony.SMS_RECEIVED
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:69:8-73
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:70:8-73
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:69:16-70
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:70:16-70
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:74:9-76:69
+ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:75:9-77:69
 MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:76:13-66
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:77:13-66
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:75:13-58
+		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:76:13-58

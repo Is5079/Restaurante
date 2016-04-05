@@ -110,10 +110,11 @@ containing a value of this type.
         public static final int Reservar=0x7f0b0060;
         public static final int TextView01=0x7f0b0064;
         public static final int VC=0x7f0b0010;
-        public static final int action_settings=0x7f0b00a7;
+        public static final int action_settings=0x7f0b00a9;
         public static final int adjust_height=0x7f0b0000;
         public static final int adjust_width=0x7f0b0001;
         public static final int btnConsultar=0x7f0b000f;
+        public static final int btnConsultar1=0x7f0b00a7;
         public static final int button1=0x7f0b0069;
         public static final int button2=0x7f0b0067;
         public static final int edit_nombre_cliente=0x7f0b005b;
@@ -262,6 +263,7 @@ containing a value of this type.
         public static final int text_nombre_cliente2=0x7f0b0012;
         public static final int text_num_clientes=0x7f0b005c;
         public static final int txtResultado=0x7f0b0011;
+        public static final int txtResultado1=0x7f0b00a8;
         public static final int username=0x7f0b0065;
         public static final int Ó=0x7f0b0068;
     }
@@ -281,7 +283,8 @@ containing a value of this type.
         public static final int plato_lista=0x7f030009;
         public static final int platos=0x7f03000a;
         public static final int register=0x7f03000b;
-        public static final int tipo=0x7f03000c;
+        public static final int reportes=0x7f03000c;
+        public static final int tipo=0x7f03000d;
     }
     public static final class menu {
         public static final int main=0x7f0a0000;

@@ -66,10 +66,11 @@ int id LinearLayout1 0x7f0b000e
 int id Reservar 0x7f0b0060
 int id TextView01 0x7f0b0064
 int id VC 0x7f0b0010
-int id action_settings 0x7f0b00a7
+int id action_settings 0x7f0b00a9
 int id adjust_height 0x7f0b0000
 int id adjust_width 0x7f0b0001
 int id btnConsultar 0x7f0b000f
+int id btnConsultar1 0x7f0b00a7
 int id button1 0x7f0b0069
 int id button2 0x7f0b0067
 int id edit_nombre_cliente 0x7f0b005b
@@ -218,6 +219,7 @@ int id text_nombre_cliente 0x7f0b005a
 int id text_nombre_cliente2 0x7f0b0012
 int id text_num_clientes 0x7f0b005c
 int id txtResultado 0x7f0b0011
+int id txtResultado1 0x7f0b00a8
 int id username 0x7f0b0065
 int id Ó 0x7f0b0068
 int integer google_play_services_version 0x7f090000
@@ -233,7 +235,8 @@ int layout menumes 0x7f030008
 int layout plato_lista 0x7f030009
 int layout platos 0x7f03000a
 int layout register 0x7f03000b
-int layout tipo 0x7f03000c
+int layout reportes 0x7f03000c
+int layout tipo 0x7f03000d
 int menu main 0x7f0a0000
 int menu restaurante 0x7f0a0001
 int string app_name 0x7f050028
