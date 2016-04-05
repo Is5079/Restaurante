@@ -68,6 +68,8 @@ public class CalcularPedido extends Activity {
 
 			Toast.makeText(this, "Mesa " + id_mesa + " cobrada",
 					Toast.LENGTH_SHORT).show();
+			Toast.makeText(this, "Imprimiendo ticket...",
+					Toast.LENGTH_SHORT).show();
 
 		} catch (RuntimeException e) {
 			Toast.makeText(this, "Introduzca un valor", Toast.LENGTH_SHORT)
