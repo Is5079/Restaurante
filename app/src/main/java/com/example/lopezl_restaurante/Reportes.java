@@ -33,7 +33,7 @@ public class Reportes extends Activity {
         GestorBDRestaurante usdbh = new GestorBDRestaurante(this, "platos", null, 1);
 
         db = usdbh.getWritableDatabase();
-        Toast.makeText(this, "Creando reporte. Para visualizarlo presione Consultar", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Creando reporte. Para visualizarlo presione el botón Consultar", Toast.LENGTH_SHORT).show();
         btnConsultar1.setOnClickListener(new View.OnClickListener() {
 
             public void onClick(View v) {
