@@ -1,10 +1,18 @@
 [
     {
+        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\menu\\restaurante.xml",
+        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\menu\\restaurante.xml"
+    },
+    {
         "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\menu\\restaurante.xml",
-        "source": "C:\\Users\\Kc\\Documents\\LopezL_Restaurante\\app\\src\\main\\res\\menu\\restaurante.xml"
+        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\build\\intermediates\\res\\merged\\debug\\menu\\restaurante.xml",
+        "source": "C:\\Users\\israel\\OneDrive\\Documents\\Cuatri_9\\Ingenieria_de_Software\\Proyecto\\Restaurante\\app\\src\\main\\res\\menu\\restaurante.xml"
     }
 ]
