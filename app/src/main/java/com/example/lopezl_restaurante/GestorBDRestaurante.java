@@ -25,7 +25,7 @@ public class GestorBDRestaurante extends SQLiteOpenHelper {
 		db.execSQL("CREATE TABLE usuarios ("
 				+ "id_usr INTEGER PRIMARY KEY AUTOINCREMENT, "
 				+ "nombre_usr TEXT, "
-				+ "pass ");
+				+ "pass TEXT)");
 		db.execSQL("CREATE TABLE platos ("
 				+ "id_plato INTEGER PRIMARY KEY AUTOINCREMENT, "
 				+ "nombre TEXT, precio FLOAT)");
