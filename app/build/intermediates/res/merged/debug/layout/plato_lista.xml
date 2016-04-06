@@ -240,7 +240,7 @@
                 android:value="9.00" />
 
         </RelativeLayout>
-        
+
         <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
@@ -275,8 +275,8 @@
                 android:value="9.00" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -310,8 +310,8 @@
                 android:value="11.00" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -345,8 +345,8 @@
                 android:value="11.00" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -380,9 +380,9 @@
                 android:value="11.50" />
 
         </RelativeLayout>
-        
-         
-         <TextView
+
+
+        <TextView
             android:id="@+id/textView2"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -429,7 +429,7 @@
                 android:value="15.00" />
 
         </RelativeLayout>
-        
+
         <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
@@ -464,8 +464,8 @@
                 android:value="13.00" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -499,8 +499,8 @@
                 android:value="15.00" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -534,8 +534,8 @@
                 android:value="12.00" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -569,9 +569,9 @@
                 android:value="11.50" />
 
         </RelativeLayout>
-        
-         
-<TextView
+
+
+        <TextView
             android:id="@+id/textView4"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -618,7 +618,7 @@
                 android:value="11.00" />
 
         </RelativeLayout>
-        
+
         <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
@@ -653,8 +653,8 @@
                 android:value="11.00" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -688,8 +688,8 @@
                 android:value="10.50" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -723,8 +723,8 @@
                 android:value="11.00" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -758,9 +758,9 @@
                 android:value="12.50" />
 
         </RelativeLayout>
-        
-         
-         <TextView
+
+
+        <TextView
             android:id="@+id/textView2"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -807,7 +807,7 @@
                 android:value="6.50" />
 
         </RelativeLayout>
-        
+
         <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
@@ -842,8 +842,8 @@
                 android:value="5.50" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -877,8 +877,8 @@
                 android:value="5.50" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -912,8 +912,8 @@
                 android:value="4.50" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -947,8 +947,8 @@
                 android:value="5.50" />
 
         </RelativeLayout>
-        
-         <TextView
+
+        <TextView
             android:id="@+id/textView5"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -995,7 +995,7 @@
                 android:value="1.50" />
 
         </RelativeLayout>
-        
+
         <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
@@ -1030,8 +1030,8 @@
                 android:value="2.00" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -1065,8 +1065,8 @@
                 android:value="2.00" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -1100,8 +1100,8 @@
                 android:value="10.50" />
 
         </RelativeLayout>
-        
-         <RelativeLayout
+
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
 
@@ -1135,14 +1135,14 @@
                 android:value="8.50" />
 
         </RelativeLayout>
-        
-         
-         
-        
-        
-        
-        
-        
+
+
+
+
+
+
+
+
     </LinearLayout>
 
 </ScrollView>

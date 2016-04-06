@@ -9,11 +9,11 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="vertical" >
-        
+
         <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="?android:attr/listPreferredItemHeight" >
-            
+
             <TextView
                 android:id="@+id/id_mesa_text"
                 android:layout_width="fill_parent"
@@ -24,18 +24,18 @@
                 android:layout_alignParentLeft="true"
                 android:text="Número de la mesa"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/id_mesa"
-          		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:background="@android:drawable/editbox_background"
-        		android:layout_alignParentBottom="true"
+            <EditText
+                android:id="@+id/id_mesa"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:drawable/editbox_background"
+                android:layout_alignParentBottom="true"
                 android:layout_below="@id/id_mesa_text"
-        		android:hint="0"/>
+                android:hint="0"/>
 
         </RelativeLayout>
-        
-        
+
+
         <TextView
             android:id="@+id/textView2"
             android:layout_width="fill_parent"
@@ -50,7 +50,7 @@
             android:textSize="18sp" />
 
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato1"
                 android:layout_width="fill_parent"
@@ -58,17 +58,17 @@
                 android:text="Gazpacho"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada1"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
-        </LinearLayout> 
-        
+            <EditText
+                android:id="@+id/entrada1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
+        </LinearLayout>
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato2"
                 android:layout_width="fill_parent"
@@ -76,17 +76,17 @@
                 android:text="Carpaccio de ternera"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada2"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato3"
                 android:layout_width="fill_parent"
@@ -94,17 +94,17 @@
                 android:text="Carpaccio de pescado"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada3"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato4"
                 android:layout_width="fill_parent"
@@ -112,17 +112,17 @@
                 android:text="Ensalada caprese"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada4"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato5"
                 android:layout_width="fill_parent"
@@ -130,17 +130,17 @@
                 android:text="Ensalada remolacha"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada5"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada5"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <TextView
-            android:id="@+id/textView2"
+            android:id="@+id/textView02"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:alpha="0.75"
@@ -153,7 +153,7 @@
             android:textSize="18sp" />
 
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato6"
                 android:layout_width="fill_parent"
@@ -161,17 +161,17 @@
                 android:text="Espagueti carbonara"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada6"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
-        </LinearLayout> 
-        
+            <EditText
+                android:id="@+id/entrada6"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
+        </LinearLayout>
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato7"
                 android:layout_width="fill_parent"
@@ -179,17 +179,17 @@
                 android:text="Pene con pesto"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada7"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada7"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato8"
                 android:layout_width="fill_parent"
@@ -197,17 +197,17 @@
                 android:text="Ravioli con setas"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada8"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada8"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato9"
                 android:layout_width="fill_parent"
@@ -215,17 +215,17 @@
                 android:text="Risotto con carne"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada9"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada9"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato10"
                 android:layout_width="fill_parent"
@@ -233,16 +233,16 @@
                 android:text="Risotto con setas"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada10"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada10"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
-         <TextView
+
+        <TextView
             android:id="@+id/textView3"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -256,7 +256,7 @@
             android:textSize="18sp" />
 
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato11"
                 android:layout_width="fill_parent"
@@ -264,17 +264,17 @@
                 android:text="Ternera con atún"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada11"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
-        </LinearLayout> 
-        
+            <EditText
+                android:id="@+id/entrada11"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
+        </LinearLayout>
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato12"
                 android:layout_width="fill_parent"
@@ -282,17 +282,17 @@
                 android:text="Tiras de carne"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada12"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada12"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato13"
                 android:layout_width="fill_parent"
@@ -300,17 +300,17 @@
                 android:text="Filete de salmón"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada13"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada13"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato14"
                 android:layout_width="fill_parent"
@@ -318,17 +318,17 @@
                 android:text="Piccata"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada14"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada14"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato15"
                 android:layout_width="fill_parent"
@@ -336,15 +336,15 @@
                 android:text="Polenta"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada15"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada15"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <TextView
             android:id="@+id/textView4"
             android:layout_width="fill_parent"
@@ -359,7 +359,7 @@
             android:textSize="18sp" />
 
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato16"
                 android:layout_width="fill_parent"
@@ -367,17 +367,17 @@
                 android:text="Pizza caprese"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada16"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
-        </LinearLayout> 
-        
+            <EditText
+                android:id="@+id/entrada16"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
+        </LinearLayout>
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato17"
                 android:layout_width="fill_parent"
@@ -385,17 +385,17 @@
                 android:text="Pizza vegetariana"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada17"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada17"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato18"
                 android:layout_width="fill_parent"
@@ -403,17 +403,17 @@
                 android:text="Pizza calzone"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada18"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada18"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato19"
                 android:layout_width="fill_parent"
@@ -421,17 +421,17 @@
                 android:text="Pizza pepperoni"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada19"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada19"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato20"
                 android:layout_width="fill_parent"
@@ -439,15 +439,15 @@
                 android:text="Pizza de la casa"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada20"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada20"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <TextView
             android:id="@+id/textView5"
             android:layout_width="fill_parent"
@@ -462,7 +462,7 @@
             android:textSize="18sp" />
 
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato21"
                 android:layout_width="fill_parent"
@@ -470,17 +470,17 @@
                 android:text="Cannoli de chocolate"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada21"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
-        </LinearLayout> 
-        
+            <EditText
+                android:id="@+id/entrada21"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
+        </LinearLayout>
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato22"
                 android:layout_width="fill_parent"
@@ -488,17 +488,17 @@
                 android:text="Pastel de tiramisú"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada22"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada22"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato23"
                 android:layout_width="fill_parent"
@@ -506,17 +506,17 @@
                 android:text="Piña con chocolate"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada23"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada23"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato24"
                 android:layout_width="fill_parent"
@@ -524,17 +524,17 @@
                 android:text="Helado de limón"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada24"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada24"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato25"
                 android:layout_width="fill_parent"
@@ -542,15 +542,15 @@
                 android:text="Pannacotta"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada25"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada25"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <TextView
             android:id="@+id/textView6"
             android:layout_width="fill_parent"
@@ -565,7 +565,7 @@
             android:textSize="18sp" />
 
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato26"
                 android:layout_width="fill_parent"
@@ -573,17 +573,17 @@
                 android:text="Agua"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada26"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
-        </LinearLayout> 
-        
+            <EditText
+                android:id="@+id/entrada26"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
+        </LinearLayout>
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato27"
                 android:layout_width="fill_parent"
@@ -591,17 +591,17 @@
                 android:text="Refresco de cola"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada27"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada27"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato28"
                 android:layout_width="fill_parent"
@@ -609,17 +609,17 @@
                 android:text="Refresco de limón"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada28"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada28"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato29"
                 android:layout_width="fill_parent"
@@ -627,17 +627,17 @@
                 android:text="Vino tinto"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada29"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada29"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
+
         <LinearLayout android:layout_width="fill_parent"
-    		android:layout_height="fill_parent" >      
+            android:layout_height="fill_parent" >
             <TextView
                 android:id="@+id/nombre_plato30"
                 android:layout_width="fill_parent"
@@ -645,28 +645,28 @@
                 android:text="Lambrusco"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceLarge" />
-    		<EditText
-        		android:id="@+id/entrada30"
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_weight="5"
-        		android:background="@android:drawable/editbox_background"
-        		android:hint="0"/>
+            <EditText
+                android:id="@+id/entrada30"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:background="@android:drawable/editbox_background"
+                android:hint="0"/>
         </LinearLayout>
-        
-         
-     
-        
+
+
+
+
         <Button
-        android:id="@+id/Calcular"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:gravity="center"
-        android:onClick="crearPedido"
-        android:text="Hacer pedido" />
-        
-        
-        
+            android:id="@+id/Calcular"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:onClick="crearPedido"
+            android:text="Hacer pedido" />
+
+
+
     </LinearLayout>
 
 </ScrollView>
