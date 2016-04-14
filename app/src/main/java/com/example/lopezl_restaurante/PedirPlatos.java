@@ -65,8 +65,7 @@ public class PedirPlatos extends Activity {
 					}
 				}
 
-				Toast.makeText(this, "Pedido realizado", Toast.LENGTH_SHORT)
-						.show();
+				Toast.makeText(this, "Pedido realizado", Toast.LENGTH_SHORT).show();
 			} else {
 				Toast.makeText(this,
 						"Introduzca un identificador de la mesa v�lido",

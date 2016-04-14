@@ -64,6 +64,16 @@
             android:layout_height="wrap_content"
             android:layout_width="fill_parent"
             android:text="@+string/calcular_pedido"/>
+
+    <Button
+        android:id="@+id/calpecom"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="calcular pedido/comensal"
+        android:layout_gravity="center_horizontal" />
+
     <Button
             android:id="@+id/Button04"
             android:textSize="14sp"

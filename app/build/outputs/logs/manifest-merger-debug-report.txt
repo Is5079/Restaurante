@@ -1,182 +1,204 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:2:1-80:12
-	package
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml
-	android:versionName
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml
-	android:versionCode
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:2:1-90:12
 	xmlns:android
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:7:5-66
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:7:22-64
 uses-sdk
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:9:5-11:41
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:11:9-38
-		INJECTED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:10:9-35
-		INJECTED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:12:5-69
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:12:5-69
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:12:22-67
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:12:22-67
 uses-permission#android.permission.READ_SMS
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:13:5-66
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:13:5-66
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:13:22-64
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:13:22-64
 application
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:15:5-78:19
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:15:5-88:19
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:18:9-31
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:18:9-31
 	android:allowBackup
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:16:9-35
 	android:icon
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:17:9-45
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:17:9-45
 	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:19:9-40
 activity#com.example.lopezl_restaurante.Tipo
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:20:9-27:20
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:20:9-27:20
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:21:13-33
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:21:13-33
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:22:9-26:25
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:22:9-26:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:23:13-65
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:23:13-65
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:23:21-62
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:23:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:25:13-73
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:25:13-73
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:25:23-70
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:25:23-70
 activity#com.example.lopezl_restaurante.Restaurante
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:28:9-31:20
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:28:9-31:20
 	android:label
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:30:13-35
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:30:13-35
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:29:13-70
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:29:13-70
 activity#com.example.lopezl_restaurante.Login1
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:32:9-43
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:32:9-43
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:32:19-41
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:32:19-41
 activity#com.example.lopezl_restaurante.Irloginmesero
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:33:9-50
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:33:9-50
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:33:19-48
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:33:19-48
 activity#com.example.lopezl_restaurante.Loginadmin
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:34:9-47
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:34:9-47
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:34:19-45
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:34:19-45
 activity#com.example.lopezl_restaurante.Login
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:35:9-42
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:35:9-42
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:35:19-40
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:35:19-40
 activity#com.example.lopezl_restaurante.Register
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:36:9-45
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:36:9-45
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:36:19-43
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:36:19-43
 activity#com.example.lopezl_restaurante.Menumes
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:37:9-44
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:37:9-44
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:37:19-42
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:37:19-42
 activity#com.example.lopezl_restaurante.Consultar
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:38:9-46
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:38:9-46
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:38:19-44
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:38:19-44
 activity#com.example.lopezl_restaurante.Reportes
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:39:9-45
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:39:9-45
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:39:19-43
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:39:19-43
 activity#com.example.lopezl_restaurante.PedirPlatos
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:41:9-44:59
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:41:9-44:59
 	android:label
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:43:13-34
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:43:13-34
 	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:44:13-56
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:44:13-56
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:42:13-40
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:42:13-40
+activity#com.example.lopezl_restaurante.PedirPlatosComensal
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:45:9-48:59
+	android:label
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:47:13-34
+	android:theme
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:46:13-48
 activity#com.example.lopezl_restaurante.ListarPlatos
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:45:9-48:59
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:49:9-52:59
 	android:label
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:47:13-41
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:51:13-41
 	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:48:13-56
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:52:13-56
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:46:13-41
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:50:13-41
 activity#com.example.lopezl_restaurante.CalcularPedido
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:49:9-52:59
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:53:9-56:59
 	android:label
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:51:13-43
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:55:13-43
 	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:52:13-56
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:56:13-56
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:50:13-43
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:54:13-43
+activity#com.example.lopezl_restaurante.CalcularPedido_com
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:57:9-60:59
+	android:label
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:59:13-47
+	android:theme
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:60:13-56
+	android:name
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:58:13-47
 activity#com.example.lopezl_restaurante.Reservar
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:53:9-56:59
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:61:9-64:59
 	android:label
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:55:13-36
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:63:13-36
 	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:56:13-56
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:64:13-56
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:54:13-37
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:62:13-37
 activity#com.example.lopezl_restaurante.EliminarReserva
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:57:9-60:59
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:65:9-68:59
 	android:label
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:59:13-44
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:67:13-44
 	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:60:13-56
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:68:13-56
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:58:13-44
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:66:13-44
 activity#com.example.lopezl_restaurante.ServicioReserva
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:61:9-64:59
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:69:9-72:59
 	android:label
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:63:13-44
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:71:13-44
 	android:theme
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:64:13-56
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:72:13-56
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:62:13-44
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:70:13-44
+activity#com.example.lopezl_restaurante.pedido_comensal
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:73:9-74:42
+	android:label
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:74:13-39
+	android:name
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:73:19-50
 service#com.example.lopezl_restaurante.NotificacionSMS
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:66:9-52
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:76:9-52
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:66:18-49
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:76:18-49
 receiver#com.example.lopezl_restaurante.ReceptorMensajes
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:68:9-72:14
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:78:9-82:14
 	android:exported
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:68:52-75
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:78:52-75
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:68:19-51
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:78:19-51
 intent-filter#android.provider.Telephony.SMS_RECEIVED
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:69:6-71:22
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:79:6-81:22
 	android:priority
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:69:21-44
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:79:21-44
 action#android.provider.Telephony.SMS_RECEIVED
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:70:8-73
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:80:8-73
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:70:16-70
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:80:16-70
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:75:9-77:69
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\Kc\Documents\LopezL_Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
-	android:value
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:77:13-66
+ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:85:9-87:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
 	android:name
-		ADDED from C:\Users\Kc\Documents\LopezL_Restaurante\app\src\main\AndroidManifest.xml:76:13-58
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:86:13-58
+	android:value
+		ADDED from C:\Users\israel\OneDrive\Documents\Cuatri_9\Ingenieria_de_Software\Proyecto\Restaurante\app\src\main\AndroidManifest.xml:87:13-66

@@ -28,7 +28,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/Ó"
         android:text="ó"
-        android:layout_below="@+id/button1"
+        android:layout_below="@+id/pmesa"
         android:layout_centerHorizontal="true"
         android:background="#f3eeee" />
 
@@ -36,7 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Mesero"
-        android:id="@+id/button1"
+        android:id="@+id/pmesa"
         android:width="500dp"
         android:onClick="irloginm"
         android:textAlignment="center"

@@ -43,12 +43,20 @@
             android:label="Carta"
             android:theme="@android:style/Theme.Dialog" />
         <activity
+            android:name=".PedirPlatosComensal"
+            android:label="Carta"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
             android:name=".ListarPlatos"
             android:label="ListarPlatos"
             android:theme="@android:style/Theme.Dialog" />
         <activity
             android:name=".CalcularPedido"
             android:label="CalcularPedido"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".CalcularPedido_com"
+            android:label="CalcularPedido_com"
             android:theme="@android:style/Theme.Dialog" />
         <activity
             android:name=".Reservar"
@@ -62,6 +70,8 @@
             android:name=".ServicioReserva"
             android:label="ServicioReserva"
             android:theme="@android:style/Theme.Dialog" />
+        <activity android:name=".pedido_comensal"
+            android:label="opcion M/C" />
         
         <service android:name=".NotificacionSMS" />
         

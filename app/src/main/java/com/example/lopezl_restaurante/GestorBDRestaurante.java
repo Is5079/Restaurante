@@ -6,6 +6,9 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import static android.widget.Toast.LENGTH_SHORT;
 
 
 public class GestorBDRestaurante extends SQLiteOpenHelper {
@@ -29,19 +32,27 @@ public class GestorBDRestaurante extends SQLiteOpenHelper {
 		db.execSQL("CREATE TABLE platos ("
 				+ "id_plato INTEGER PRIMARY KEY AUTOINCREMENT, "
 				+ "nombre TEXT, precio FLOAT)");
+
 		db.execSQL("CREATE TABLE mesas ("
 				+ "id_mesa INTEGER PRIMARY KEY AUTOINCREMENT, "
 				+ "num_comensales INTEGER)");
+
 		db.execSQL("CREATE TABLE cuenta ("
 				+ "id_cuenta INTEGER PRIMARY KEY AUTOINCREMENT, "
-				+ "total_cuenta FLOAT, id_mesa INTEGER, "
+				+ "comensal INTEGER,"
+				+ "total_cuenta FLOAT, "
+				+ "id_mesa INTEGER,"
 				+ "FOREIGN KEY (id_mesa) REFERENCES mesas (id_mesa))");
 
 		db.execSQL("CREATE TABLE pedido (id INTEGER PRIMARY KEY AUTOINCREMENT,"
-				+ "num_platos INTEGER, cobrado INTEGER, id_plato INTEGER, id_cuenta INTEGER, id_mesa INTEGER, "
-				+ "FOREIGN KEY(id_plato) REFERENCES platos(id_plato),"
-				+ "FOREIGN KEY(id_cuenta) REFERENCES cuenta(id_cuenta),"
-				+ "FOREIGN KEY(id_mesa) REFERENCES mesas(id_mesa))");
+				+ "num_platos INTEGER, "
+				+ "cobrado INTEGER, "
+				+ "id_plato INTEGER,"
+				+ "id_cuenta INTEGER,"
+				+ "id_mesa INTEGER, "
+				+ "FOREIGN KEY (id_plato) REFERENCES platos(id_plato),"
+				+ "FOREIGN KEY (id_cuenta) REFERENCES cuenta(id_cuenta),"
+				+ "FOREIGN KEY (id_mesa) REFERENCES mesas(id_mesa))");
 
 		db.execSQL("CREATE TABLE reserva ("
 				+ "id_reserva INTEGER PRIMARY KEY AUTOINCREMENT, "
@@ -164,14 +175,25 @@ public class GestorBDRestaurante extends SQLiteOpenHelper {
 		cv.put("total_cuenta", 0.00f);
 		cv.put("id_mesa", id_mesa);
 		return db.insertOrThrow("cuenta", null, cv);
-
 	}
+
+	public long crearCuenta(int id_mesa, int comensal)
+	{
+		SQLiteDatabase db = getWritableDatabase();
+		ContentValues cv = new ContentValues();
+		cv.put("total_cuenta", 0.00f);
+		cv.put("id_mesa", id_mesa);
+		cv.put("comensal", comensal);
+		return db.insertOrThrow("cuenta",null,cv);
+	}
+
+
 
 	/**
 	 * M�todo para introducir un nuevo pedido en la BD. Se llama desde el m�todo
 	 * crearPedido de la clase PedirPlatos.
-	 * 
-	 * 
+	 *
+	 *
 	 * @param id_plato
 	 *            : identificador del n�mero de plato.
 	 * @param num_platos
@@ -190,8 +212,8 @@ public class GestorBDRestaurante extends SQLiteOpenHelper {
 		cv.put("id_plato", id_plato);
 		cv.put("id_mesa", id_mesa);
 		db.insertOrThrow("pedido", null, cv);
-
 	}
+
 	/**
 	 * M�todo para calcular el total a pagar de una mesa. Se llama desde el
 	 * m�todo calcularTotalMesa de la clase CalcularPedido.
@@ -252,6 +274,57 @@ public class GestorBDRestaurante extends SQLiteOpenHelper {
 
 	}
 
+	public float calcularCuenta2(int id_cuenta) {
+		float precioTotal = 0.00f;
+		SQLiteDatabase db = getWritableDatabase();
+
+		String[] com = new String[1];
+		com[0] = Integer.toString(id_cuenta, 10);
+
+		Cursor cursor = db.rawQuery("SELECT id_plato, num_platos FROM "
+				+ "pedido WHERE cobrado=0 AND id_cuenta=?", com);
+
+
+		// Obtenemos los �ndices de las columnas
+		int cantidadColumn = cursor.getColumnIndex("num_platos");
+		int id_platoColumn = cursor.getColumnIndex("id_plato");
+
+		if (cursor.moveToFirst() == false) { // el cursor est� vac�o
+		} else {
+
+			// Recorremos el cursor
+			for (cursor.moveToFirst(); !cursor.isAfterLast(); cursor
+					.moveToNext()) {
+
+				int cantidad = cursor.getInt(cantidadColumn);
+				int id_plato = cursor.getInt(id_platoColumn);
+				String[] param2 = new String[1];
+				param2[0] = Integer.toString(id_plato, 10);
+
+				Cursor cursor2 = db.rawQuery(
+						"SELECT precio from platos WHERE id_plato=?", param2);
+				// Obtenemos los �ndices de las columnas
+				int precioColumn = cursor2.getColumnIndex("precio");
+
+				if (cursor2.moveToFirst() == false) { // el cursor est� vac�o
+				} else {
+					// Recorremos el cursor
+					for (cursor2.moveToFirst(); !cursor2.isAfterLast(); cursor2
+							.moveToNext()) {
+						float precio = cursor2.getFloat(precioColumn);
+						precioTotal += precio * cantidad;
+
+					}
+
+				}
+
+			}
+
+		}
+		return precioTotal;
+	}
+
+
 	/**
 	 * M�todo para indicar que los clientes de una mesa han pagado sus cuentas.
 	 * Se llama desde el m�todo cobrarMesa de la clase CalcularPedido.
@@ -269,6 +342,19 @@ public class GestorBDRestaurante extends SQLiteOpenHelper {
 		ContentValues cv = new ContentValues();
 		cv.put("cobrado", 1);
 		String where = "id_mesa=?";
+
+		db.update("pedido", cv, where, param);
+	}
+
+	public void cobrarMesa2(int id_cuenta) {
+		SQLiteDatabase db = getWritableDatabase();
+
+		String[] param = new String[1];
+		param[0] = Integer.toString(id_cuenta, 10);
+
+		ContentValues cv = new ContentValues();
+		cv.put("cobrado", 1);
+		String where = "id_cuenta=?";
 
 		db.update("pedido", cv, where, param);
 	}

@@ -40,7 +40,7 @@ public class Restaurante extends Activity {
 
 			@Override
 			public void onClick(View view) {
-				lanzarHacerPedido(null);
+				lanzarpedido_comensal(null);
 			}
 		});
 
@@ -72,6 +72,15 @@ public class Restaurante extends Activity {
 			}
 		});
 
+		boton = (Button) findViewById(R.id.calpecom);
+		boton.setOnClickListener(new View.OnClickListener(){
+
+			@Override
+			public void onClick(View view) {
+				calpecom(null);
+			}
+		});
+
 	}
 
 	@Override
@@ -81,14 +90,19 @@ public class Restaurante extends Activity {
 		return true;
 	}
 
+	public void calpecom(View view){
+		Intent i = new Intent(this,CalcularPedido_com.class);
+		startActivity(i);
+	}
+
 	public void lanzarPlatos(View view) {
 		Intent i = new Intent(this, ListarPlatos.class);
 		startActivity(i);
 	}
 
-	public void lanzarHacerPedido(View view) {
+	public void lanzarpedido_comensal(View view) {
 
-		Intent i = new Intent(this, PedirPlatos.class);
+		Intent i = new Intent(this, pedido_comensal.class);
 		startActivity(i);
 	}
 

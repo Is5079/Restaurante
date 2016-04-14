@@ -41,12 +41,20 @@
             android:label="Carta"
             android:theme="@android:style/Theme.Dialog" />
         <activity
+            android:name="com.example.lopezl_restaurante.PedirPlatosComensal"
+            android:label="Carta"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
             android:name="com.example.lopezl_restaurante.ListarPlatos"
             android:label="ListarPlatos"
             android:theme="@android:style/Theme.Dialog" />
         <activity
             android:name="com.example.lopezl_restaurante.CalcularPedido"
             android:label="CalcularPedido"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.example.lopezl_restaurante.CalcularPedido_com"
+            android:label="CalcularPedido_com"
             android:theme="@android:style/Theme.Dialog" />
         <activity
             android:name="com.example.lopezl_restaurante.Reservar"
@@ -60,6 +68,9 @@
             android:name="com.example.lopezl_restaurante.ServicioReserva"
             android:label="ServicioReserva"
             android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.example.lopezl_restaurante.pedido_comensal"
+            android:label="opcion M/C" />
 
         <service android:name="com.example.lopezl_restaurante.NotificacionSMS" />
 
